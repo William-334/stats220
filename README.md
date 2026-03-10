@@ -12,4 +12,4 @@ A little about me:
 <!--- numbered lists --->
 <!--- BTW this is how you comment --->
 
-A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
+1. A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
